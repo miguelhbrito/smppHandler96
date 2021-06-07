@@ -17,7 +17,7 @@
 		<ch.commons.charset.version>3.0.0</ch.commons.charset.version>
 		<junit.version>4.11</junit.version>
 		<slf4j.version>1.7.5</slf4j.version>
-		<logback.version>1.0.13</logback.version>
+		<logback.version>1.2.0</logback.version>
 
 		<mcp.source.version>1.7</mcp.source.version>
 		<mcp.target.version>1.7</mcp.target.version>
